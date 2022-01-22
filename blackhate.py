@@ -139,10 +139,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.facebook.com/naib.shayan)
+            os.system('xdg-open)
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/naib.shayan')
+        os.system('xdg-open')
 
 def login():
 	os.system('clear')
